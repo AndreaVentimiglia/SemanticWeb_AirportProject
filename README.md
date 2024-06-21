@@ -1,4 +1,6 @@
-![image](https://github.com/AndreaVentimiglia/SemanticWeb_AirportProject/assets/63006903/4e1ff5ad-f9c3-4b2d-9127-c20e07d454d7)![image](https://github.com/AndreaVentimiglia/SemanticWeb_AirportProject/assets/63006903/4735a7de-c0fa-4d0a-8c30-f151e14ddfb1)![image](https://github.com/AndreaVentimiglia/SemanticWeb_AirportProject/assets/63006903/93bc3c6c-7fbd-4198-8044-849284e4cb31)![image](https://github.com/AndreaVentimiglia/SemanticWeb_AirportProject/assets/63006903/ab081a2d-a415-4b9e-b3ba-be29ff188d8c)# Semantic Web - OWL Ontology in Protege - AirportProject
+# Semantic Web - OWL Ontology in Protege - AirportProject
+
+
 ## Ontology domain: Airport
 Our goal is to develop an ontology that accurately and comprehensively represents the various entities and relationships that occur in an **Airport context**.  
 The ontology will help us better understand the structure, operations and processes involved in an airport.
@@ -73,6 +75,7 @@ WHERE { ?Volo airport:haEventoPA ?Evento .
 
 ### UC 3
 Select the names of all passengers who are children bound for Fontanarossa.
+
 SELECT ?Passeggero ?Volo ?age
 WHERE {
   	?Volo airport:parteDa ?AeroportoPartenza .
