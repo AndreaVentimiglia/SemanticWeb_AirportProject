@@ -10,7 +10,7 @@ Our goal is to develop an ontology that accurately and comprehensively represent
 The ontology will help us better understand the structure, operations and processes involved in an airport.
 
 For a detailed explanation of how the project works, see the documentation:
-- ENG: [qui](Docs/Documentazione.pdf).
+- ENG: [qui](Docs/Documentation.pdf).
 
 ## Classes and properties
 Our ontology will consist of several key concepts modelled by the following classes:
