@@ -1,16 +1,15 @@
 # Semantic Web - OWL Ontology in Protege - AirportProject
-
-## Collaboratori
-- **Arena Gabriele**
-- **Corsaro Miriana**
-- **Ventimiglia Andrea Paolo**
-
 ## Ontology domain: Airport
 Our goal is to develop an ontology that accurately and comprehensively represents the various entities and relationships that occur in an **Airport context**.  
 The ontology will help us better understand the structure, operations and processes involved in an airport.
 
 For a detailed explanation of how the project works, see the documentation:
 - ENG: [qui](Docs/Documentation.pdf).
+
+## Collaborators
+- **Arena Gabriele**
+- **Corsaro Miriana**
+- **Ventimiglia Andrea Paolo**
 
 ## Classes and properties
 Our ontology will consist of several key concepts modelled by the following classes:
